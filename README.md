@@ -53,13 +53,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ---
 
-## 🙌 Acknowledgments
-
-- Inspired by [SelfAttested.com](https://selfattested.com)
-- Thanks to the open-source community
-
----
-
 ## 💡 Want to Contribute?
 
 Feel free to fork and improve! If you have a suggestion or feature request, open an issue or pull request.
