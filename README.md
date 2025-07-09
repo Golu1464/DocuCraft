@@ -1,6 +1,6 @@
 # 📎 DocuCraft — Document & Image Editor
 
-**DocuCraft** is a lightweight, fully functional web-based image and document editing platform built using **Streamlit**. Inspired by [SelfAttested.com](https://selfattested.com), it enables users to easily prepare documents and images for government and job form submissions.
+**DocuCraft** is a lightweight, fully functional web-based image and document editing platform built using **Streamlit**. it enables users to easily prepare documents and images for government and job form submissions.
 
 ---
 
