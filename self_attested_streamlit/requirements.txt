@@ -1,5 +1,0 @@
-
-streamlit
-pillow
-PyPDF2
-streamlit-cropper
